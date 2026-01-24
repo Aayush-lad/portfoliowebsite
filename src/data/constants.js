@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "Aspiring Software Development Intern eager to apply foundational skills in Python, Java, JavaScript, Node.js, React.js, and Next.js in a dynamic learning environment. Certified AWS Cloud Practitioner and Azure 104 Administrator with a strong academic background in computer science. Dedicated to gaining hands-on experience in software development methodologies, collaborating with teams, and contributing to innovative projects.",
+    "Aspiring Software Developer eager to apply foundational skills in Python, Java, JavaScript, Node.js, React.js, and Next.js in a dynamic learning environment. Certified AWS Cloud Practitioner and Azure 104 Administrator with a strong academic background in computer science. Dedicated to gaining hands-on experience in software development methodologies, collaborating with teams, and contributing to innovative projects.",
   github: "https://github.com/Aayush-lad",
   resume:
     "https://tomato-stephana-98.tiiny.site/",
@@ -195,7 +195,7 @@ export const education = [
     school: "Vellore Institute of Technology, Chennai",
     date: "April 2021 - May 2025",
     grade: "9.05 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Bhubaneswar. I have completed 6 semesters and have a CGPA of 9.05. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Linux Club at VIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Chennai. I have completed my degree a CGPA of 9.05. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I was also a member of the Linux Club at VIT, where I was learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -287,7 +287,7 @@ export const projects = [
       "The application leverages a Trie data structure for efficient word lookup and Edit Distance algorithm for suggesting corrections.",
       "It fetches a dictionary of over 10,000 words from a remote source using web scraping with BeautifulSoup and offers real-time spell checking capabilities."
   ],
-  image: "/spell.png", // Replace with actual image URL
+  image: "/spell.png", 
   tags: [
       "Python",
       "Tkinter",
